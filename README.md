@@ -2,7 +2,7 @@
 
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?logo=playwright&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Playwright Tests](https://github.com/busrademirell/saucedemo-playwright-automation/actions/workflows/playwright.yml/badge.svg)
 
 ## Overview
 
